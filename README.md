@@ -8,6 +8,7 @@
 ## Quick Links
 
 - [What Is Inside?](github.com/quantum-corn/ZenMemoDecks#What-Is-Inside?)
+- [Release Notes](github.com/quantum-corn/ZenMemoDecks#Release-Notes)
 - [How To Use It?](github.com/quantum-corn/ZenMemoDecks#How-To-Use-It?)
 - [Japanese Learning Resources](github.com/quantum-corn/ZenMemoDecks#Japanese-Learning-Resources)
 - [Support](github.com/quantum-corn/ZenMemoDecks#Support)
@@ -59,14 +60,21 @@ Back to the story, then I wanted to create a deck for radicals but this was more
 
 ***
 
+## Release Notes
+
+Release file|date|Notes
+---|---|---
+Japanese1-0.mochi|May 4, 2024|/hiragana/ & /katakana/ complete
+***
+
 ## Roadmap
 
 - [x] \hiragana\
-  - [x] pronunciation *only basic done so far*
-  - [ ] animation
+  - [x] pronunciation
+  - [x] animation
 - [x] \katakana\
-  - [x] pronunciation *only basic done so far*
-  - [ ] animation
+  - [x] pronunciation
+  - [x] animation
 - [ ] Radicals
   - [ ] animation
 - [ ] \kanji\ (kanji)
